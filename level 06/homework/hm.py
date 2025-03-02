@@ -10,3 +10,12 @@ Kelvin = Celsius + 273.15
 print(f"Celsius: {Celsius}")
 print(f"Fahrebheit: {Fahrenheit}")
 print(f"Kelvin: {Kelvin}")
+
+
+
+
+name = "nutsa"
+age = 14
+hobby = "drawing"
+
+print(f"my name is {name} and my age is {age}, i love {hobby}")
