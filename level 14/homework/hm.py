@@ -44,5 +44,5 @@ for num in range(2, 100, 2):
  #12) Bonus
 #პროგრამას გამოატანინეთ რიცხვები 20-იდან 0-მდე, for ციკლით
 
-for num in range(20,-1,-1):
+for num in range(20, 0, -1):
     print(num)
