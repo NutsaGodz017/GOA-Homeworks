@@ -1,2 +1,4 @@
+Name = "nutsa"
+lastname = "Goderidze"
 
-# არ გვქონია
+print(Name + " " + lastname)

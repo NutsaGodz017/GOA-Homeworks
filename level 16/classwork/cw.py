@@ -13,5 +13,12 @@ num2 = int(input("second number: "))
 for num in range(num1, num2, +1):
     print(num)
     
-While True(3 > 2):
-    print("abc")
+
+
+#3) შექმენით პროგრამა რომელიც მოხმარებელს შეეკითხება პაროლს სანამ სწორად არ ჩაწერს
+
+Password = "ABC"
+anonimus = ""
+
+while anonimus != Password:
+    anonimus = input("Password: ")
